@@ -1,0 +1,31 @@
+body{
+    background:linear-gradient(lime, cyan);
+}
+#logo_img
+{
+    width: 95px;
+    height: 90px;
+    border-radius: 30px;
+}
+h1{
+    font-family:cursive;
+    font-style:italic;
+    font-weight:bold;
+    color:rgb(91, 26, 255);
+}img:hover{
+    border-radius: 140px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #7dddd8;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+ }
+ .column
+ {
+     display: inline;
+     padding: 10px;
+ }
